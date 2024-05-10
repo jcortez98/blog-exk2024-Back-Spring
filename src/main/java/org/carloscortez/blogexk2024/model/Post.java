@@ -11,6 +11,8 @@ import lombok.ToString;
 
 import java.sql.Time;
 import java.sql.Date;
+import java.time.LocalDate;
+import java.time.LocalTime;
 
 @Entity
 @Data
